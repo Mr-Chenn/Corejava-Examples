@@ -3,7 +3,7 @@ import java.util.*;
 
 public class ArraysDemo {
 	
-	public static void main(String[] args) {
+	public static void arrayMethod(){
 		
 		int[] myIntArray1 = {100, 90};
 		/*myIntArray1 = new int[10];

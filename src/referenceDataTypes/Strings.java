@@ -2,7 +2,7 @@ package referenceDataTypes;
 
 public class Strings {
 
-	public static void main(String[] args) {
+	public static void stringMethod() {
 		// TODO Auto-generated method stub
 		
 		String str = "Pack my box with FIVE DOZEN liquor JUgs";
