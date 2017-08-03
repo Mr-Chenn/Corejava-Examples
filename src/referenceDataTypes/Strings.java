@@ -1,4 +1,4 @@
-package primitiveDataTypes;
+package referenceDataTypes;
 
 public class Strings {
 
